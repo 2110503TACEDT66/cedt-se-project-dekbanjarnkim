@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/kongmac/Desktop/monofordocker/Monorepo-Test/frontend/src/app/page\":[\"static/media/8c3574eb6e3afc43-s.p.woff2\"],\"/Users/kongmac/Desktop/monofordocker/Monorepo-Test/frontend/src/app/layout\":[\"static/media/8c3574eb6e3afc43-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"

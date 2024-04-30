@@ -14,7 +14,7 @@ const swaggerDocs = require("./config/swaggerConfig");
 
 
 //Load env vars
- dotenv.config({ path: "./config/config.env" });
+ dotenv.config();
 
 //connect to database
 connectDB();
