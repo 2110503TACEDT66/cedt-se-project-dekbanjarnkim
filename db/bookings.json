@@ -1,0 +1,7590 @@
+[{
+  "_id": {
+    "$oid": "66194b3b186cf99b5394c182"
+  },
+  "bookingDate": {
+    "$date": "2024-04-02T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65dee4b27046bb0545061580"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0b45219d08cf18abd6303"
+  },
+  "discountPoint": 100,
+  "cost": 0,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-12T14:54:51.934Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662168435b7e321ac31a919f"
+  },
+  "bookingDate": {
+    "$date": "2024-04-24T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "66184d2050fb82b759540e9b"
+  },
+  "car": "Toyota Fortuner",
+  "daySpend": 3000,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 2997000,
+  "addedPoint": 29970,
+  "createdAt": {
+    "$date": "2024-04-18T18:36:51.232Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662883825b002dd915079c59"
+  },
+  "bookingDate": {
+    "$date": "2024-04-24T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "66287e70bcfc4f4b9734569b"
+  },
+  "car": "Toyota Fortuner",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65db4a505af21418d9a5a605"
+  },
+  "discountPoint": 0,
+  "cost": 7700,
+  "addedPoint": 77,
+  "createdAt": {
+    "$date": "2024-04-24T03:58:58.061Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6628a6c29da96626ff9411ce"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65dee4b27046bb0545061580"
+  },
+  "car": "Honda Accord",
+  "daySpend": 13,
+  "rentalProvider": {
+    "$oid": "65db4a505af21418d9a5a605"
+  },
+  "discountPoint": 0,
+  "cost": 9100,
+  "addedPoint": 91,
+  "createdAt": {
+    "$date": "2024-04-24T06:29:22.246Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662a62c2992b1c4abe96a68d"
+  },
+  "bookingDate": {
+    "$date": "2024-04-25T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "66290c21dfd4b53c5af58753"
+  },
+  "car": "Honda Accord",
+  "daySpend": 4,
+  "rentalProvider": {
+    "$oid": "65db4a505af21418d9a5a605"
+  },
+  "discountPoint": 0,
+  "cost": 2800,
+  "addedPoint": 28,
+  "createdAt": {
+    "$date": "2024-04-25T14:03:46.224Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662b35d88c830e8291e2bc2e"
+  },
+  "bookingDate": {
+    "$date": "2024-04-12T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "66290c21dfd4b53c5af58753"
+  },
+  "car": "Honda Accord",
+  "daySpend": 5,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 4995,
+  "addedPoint": 49,
+  "createdAt": {
+    "$date": "2024-04-26T05:04:24.560Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662b35e18c830e8291e2bc3f"
+  },
+  "bookingDate": {
+    "$date": "2024-04-12T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "66290c21dfd4b53c5af58753"
+  },
+  "car": "Honda Accord",
+  "daySpend": 5,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 4995,
+  "addedPoint": 49,
+  "createdAt": {
+    "$date": "2024-04-26T05:04:33.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662bae8b731597032a23a27d"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "662badda731597032a23a125"
+  },
+  "car": "Honda Civic",
+  "daySpend": 4,
+  "rentalProvider": {
+    "$oid": "65e0b45219d08cf18abd6303"
+  },
+  "discountPoint": 0,
+  "cost": 4000,
+  "addedPoint": 40,
+  "createdAt": {
+    "$date": "2024-04-26T13:39:23.399Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662bafcd731597032a23abe6"
+  },
+  "bookingDate": {
+    "$date": "2024-04-24T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "662badda731597032a23a125"
+  },
+  "car": "Honda Accord",
+  "daySpend": 4,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 38,
+  "cost": 3616,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-26T13:44:45.533Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662bb03d731597032a23abfe"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "662badda731597032a23a125"
+  },
+  "car": "Honda Accord",
+  "daySpend": 4,
+  "rentalProvider": {
+    "$oid": "65deed7c9363d26fdca9b715"
+  },
+  "discountPoint": 0,
+  "cost": 3200,
+  "addedPoint": 32,
+  "createdAt": {
+    "$date": "2024-04-26T13:46:37.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662bb2d5731597032a23ac52"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "662bb2b4731597032a23ac48"
+  },
+  "car": "Honda Civic",
+  "daySpend": 3,
+  "rentalProvider": {
+    "$oid": "65db4a505af21418d9a5a605"
+  },
+  "discountPoint": 0,
+  "cost": 2100,
+  "addedPoint": 21,
+  "createdAt": {
+    "$date": "2024-04-26T13:57:41.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662bb31f731597032a23ac65"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "662bb2b4731597032a23ac48"
+  },
+  "car": "Honda Civic",
+  "daySpend": 3,
+  "rentalProvider": {
+    "$oid": "65db4a505af21418d9a5a605"
+  },
+  "discountPoint": 18,
+  "cost": 1920,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-26T13:58:55.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662bb365731597032a23ac78"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "662bb2b4731597032a23ac48"
+  },
+  "car": "Honda Civic",
+  "daySpend": 4,
+  "rentalProvider": {
+    "$oid": "65deed7c9363d26fdca9b715"
+  },
+  "discountPoint": 0,
+  "cost": 3200,
+  "addedPoint": 32,
+  "createdAt": {
+    "$date": "2024-04-26T14:00:05.774Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662bb3f6731597032a23aca5"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "662bb3b2731597032a23ac8f"
+  },
+  "car": "Honda Civic",
+  "daySpend": 5,
+  "rentalProvider": {
+    "$oid": "65db4a505af21418d9a5a605"
+  },
+  "discountPoint": 0,
+  "cost": 3500,
+  "addedPoint": 35,
+  "createdAt": {
+    "$date": "2024-04-26T14:02:30.347Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662bb422731597032a23acb8"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "662bb3b2731597032a23ac8f"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0b45219d08cf18abd6303"
+  },
+  "discountPoint": 35,
+  "cost": 650,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-26T14:03:14.792Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cbd1269160951c90d9c18"
+  },
+  "bookingDate": {
+    "$date": "2024-05-08T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "662cbce069160951c90d9c0c"
+  },
+  "car": "Honda Civic",
+  "daySpend": 16,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 15984,
+  "addedPoint": 159,
+  "createdAt": {
+    "$date": "2024-04-27T08:53:38.299Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cbd4769160951c90d9c2f"
+  },
+  "bookingDate": {
+    "$date": "2024-05-08T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "662cbce069160951c90d9c0c"
+  },
+  "car": "Honda Civic",
+  "daySpend": 16,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 15984,
+  "addedPoint": 159,
+  "createdAt": {
+    "$date": "2024-04-27T08:54:31.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cbd5269160951c90d9c38"
+  },
+  "bookingDate": {
+    "$date": "2024-05-08T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "662cbce069160951c90d9c0c"
+  },
+  "car": "Honda Civic",
+  "daySpend": 16,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 14,
+  "cost": 15844,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T08:54:42.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cbee27cc3617a4ec6af16"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "662cbeb37cc3617a4ec6af09"
+  },
+  "car": "Honda Civic",
+  "daySpend": 9,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 8991,
+  "addedPoint": 89,
+  "createdAt": {
+    "$date": "2024-04-27T09:01:22.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cc04972eb212297613838"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 9,
+  "createdAt": {
+    "$date": "2024-04-27T09:07:21.168Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cc0b672eb21229761388b"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0b45219d08cf18abd6303"
+  },
+  "discountPoint": 0,
+  "cost": 1000,
+  "addedPoint": 10,
+  "createdAt": {
+    "$date": "2024-04-27T09:09:10.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cc50272eb212297613960"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T09:27:30.745Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cc52572eb212297613987"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T09:28:05.696Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cc53e72eb2122976139a5"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T09:28:30.660Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ccf6772eb2122976139c5"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 990,
+  "cost": 1089,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T10:11:51.555Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ccf8272eb2122976139e5"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 90,
+  "cost": 10089,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T10:12:18.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ccfa272eb212297613a05"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 90,
+  "cost": 10089,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T10:12:50.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ccfe872eb212297613a2c"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 90,
+  "cost": 10089,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T10:14:00.736Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd09372eb212297613a4c"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T10:16:51.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd10072eb212297613a6c"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T10:18:40.831Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd13e72eb212297613a85"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T10:19:42.684Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd17f72eb212297613a9e"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T10:20:47.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd1be72eb212297613aa7"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 9,
+  "createdAt": {
+    "$date": "2024-04-27T10:21:50.386Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd1c672eb212297613abe"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 9,
+  "createdAt": {
+    "$date": "2024-04-27T10:21:58.310Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd21b72eb212297613add"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T10:23:23.426Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd25f72eb212297613af0"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T10:24:31.223Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd2d372eb212297613b10"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T10:26:27.463Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd33372eb212297613b30"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T10:28:03.136Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd33a72eb212297613b41"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 100,
+  "cost": 9989,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T10:28:10.723Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd51472eb212297613b60"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T10:36:04.325Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd54372eb212297613b79"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T10:36:51.565Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd54b72eb212297613b8a"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T10:36:59.109Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd70572eb212297613bbe"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T10:44:21.050Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd70c72eb212297613bcf"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T10:44:28.245Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd72072eb212297613bf6"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T10:44:48.209Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd73772eb212297613c15"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T10:45:11.489Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd73e72eb212297613c26"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T10:45:18.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd75072eb212297613c45"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T10:45:36.738Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd7da72eb212297613c5e"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T10:47:54.537Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd7e172eb212297613c6f"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 100,
+  "cost": 9989,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T10:48:01.167Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd83472eb212297613c8e"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T10:49:24.323Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd83b72eb212297613c9f"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T10:49:31.413Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd8ac72eb212297613cb7"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 9,
+  "createdAt": {
+    "$date": "2024-04-27T10:51:24.543Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd8b372eb212297613cc8"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 989,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T10:51:31.681Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd93d72eb212297613cef"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 9,
+  "createdAt": {
+    "$date": "2024-04-27T10:53:49.100Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd94472eb212297613d00"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 989,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T10:53:56.098Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd97572eb212297613d1f"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 9,
+  "createdAt": {
+    "$date": "2024-04-27T10:54:45.527Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd97c72eb212297613d30"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 989,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T10:54:52.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cd9fa72eb212297613d50"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T10:56:58.913Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cdada72eb212297613d6f"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 999,
+  "cost": 999,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:00:42.231Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cdae572eb212297613d87"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:00:53.205Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cdc4872eb212297613da6"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 999,
+  "cost": 999,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:06:48.029Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cdc4f72eb212297613db7"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:06:55.415Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cdc7372eb212297613dd6"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 9999,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:07:31.419Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cdc8d72eb212297613df0"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 9999,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:07:57.855Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cdce672eb212297613e09"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 9999,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:09:26.890Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cdced72eb212297613e1a"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:09:33.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cdcfd72eb212297613e39"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T11:09:49.093Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cdd0872eb212297613e51"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:10:00.239Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cdd1672eb212297613e70"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 9999,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:10:14.724Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cdd5e72eb212297613e89"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T11:11:26.127Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cddb772eb212297613ea9"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 9999,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:12:55.506Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cddc372eb212297613ec1"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:13:07.301Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cdde172eb212297613ee0"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T11:13:37.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cddfd72eb212297613f00"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 9999,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:14:05.125Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cde2e72eb212297613f19"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 9,
+  "cost": 10899,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:14:54.179Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cde3572eb212297613f2a"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:15:01.526Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cde6972eb212297613f49"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T11:15:53.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cde7272eb212297613f61"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:16:02.863Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cde7a72eb212297613f72"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 9999,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:16:10.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cdeb372eb212297613f83"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T11:17:07.553Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cdeb572eb212297613f8c"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T11:17:09.902Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cdebf72eb212297613fab"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 9999,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:17:19.768Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cdec772eb212297613fbc"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:17:27.012Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cded472eb212297613fdb"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 9999,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:17:40.075Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cdedb72eb212297613fec"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:17:47.534Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cdf3e72eb21229761400b"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T11:19:26.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cdf4972eb212297614023"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:19:37.539Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cdfd872eb212297614042"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 9999,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:22:00.584Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cdfe772eb212297614053"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T11:22:15.901Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cdfe872eb21229761405c"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T11:22:16.854Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cdfe972eb212297614066"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T11:22:17.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cdfe972eb212297614068"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T11:22:17.220Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cdfe972eb212297614075"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T11:22:17.822Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cdff172eb212297614096"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 9999,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:22:25.931Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cdffa72eb2122976140a7"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:22:34.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce00c72eb2122976140c6"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 9999,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:22:52.896Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce01472eb2122976140d7"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:23:00.543Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce05572eb2122976140f6"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 9999,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:24:05.909Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce05d72eb212297614107"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:24:13.086Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce0a572eb212297614126"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 9999,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:25:25.755Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce0ad72eb212297614137"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:25:33.060Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce0e772eb212297614156"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T11:26:31.302Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce13572eb212297614176"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 9999,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:27:49.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce13c72eb212297614187"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:27:56.499Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce1f072eb2122976141a6"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T11:30:56.109Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce1fc72eb2122976141be"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:31:08.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce2a572eb2122976141e4"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 9999,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:33:57.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce2fa72eb2122976141fd"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T11:35:22.488Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce30972eb212297614215"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:35:37.889Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce31a72eb212297614234"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 9999,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:35:54.197Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce32872eb212297614245"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T11:36:08.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce32872eb21229761424c"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T11:36:08.589Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce32872eb212297614256"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T11:36:08.750Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce32872eb212297614260"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T11:36:08.902Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce32972eb212297614267"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T11:36:09.021Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce32972eb212297614272"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T11:36:09.313Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce33d72eb2122976142d7"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 9999,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:36:29.731Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce34572eb2122976142e8"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:36:37.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce37f72eb212297614307"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 9999,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:37:35.294Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce38572eb212297614318"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:37:41.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce3e272eb212297614338"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 9999,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:39:14.203Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce3f172eb212297614351"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 9999,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:39:29.164Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce3f972eb212297614362"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:39:37.027Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce43672eb212297614381"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 9,
+  "cost": 10899,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:40:38.244Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce43d72eb212297614392"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:40:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce44172eb2122976143a2"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:40:49.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce44172eb2122976143aa"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:40:49.758Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce44272eb2122976143ba"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:40:50.043Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce44272eb2122976143bd"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:40:50.109Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce44272eb2122976143bf"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:40:50.112Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce45272eb21229761441c"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:06.101Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce45272eb212297614425"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:06.667Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce45372eb21229761442e"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:07.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce45472eb212297614437"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:08.277Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce45472eb212297614441"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:08.642Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce45472eb212297614446"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:08.746Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce45472eb212297614454"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:08.970Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce45572eb212297614457"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:09.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce45572eb212297614465"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:09.258Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce45572eb21229761446f"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:09.395Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce45572eb21229761447a"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:09.535Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce45572eb212297614488"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:09.769Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce45572eb21229761448e"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:09.887Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce45672eb21229761449d"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:10.113Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce45672eb2122976144a4"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:10.311Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce45672eb2122976144b2"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:10.520Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce45672eb2122976144bd"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:10.680Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce45672eb2122976144c6"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:10.819Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce45772eb2122976144d5"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:11.078Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce45772eb2122976144db"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:11.256Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce45772eb2122976144e6"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:11.426Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce45772eb2122976144ec"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:11.542Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce45772eb212297614501"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:11.994Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce45872eb212297614522"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:12.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce46672eb212297614647"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:26.716Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce46672eb21229761464c"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:26.895Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce46772eb212297614655"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:27.130Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce46772eb21229761465d"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:27.298Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce46772eb212297614669"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:27.557Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce46772eb21229761466c"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:27.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce46a72eb21229761467f"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 10979,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:30.544Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce47772eb2122976146ed"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 10989,
+  "addedPoint": 109,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:43.592Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce48372eb212297614705"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:55.788Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce48672eb21229761470e"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:58.950Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce48772eb21229761471f"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:41:59.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce48872eb212297614727"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:00.085Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce48872eb212297614732"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:00.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce48872eb21229761473a"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:00.495Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce48872eb21229761473f"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:00.577Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce48872eb21229761474d"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:00.809Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce48872eb212297614752"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:00.943Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce48972eb21229761475f"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:01.203Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce48972eb212297614765"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:01.383Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce48972eb21229761476f"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:01.553Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce48972eb212297614777"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:01.736Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce48a72eb212297614781"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:02.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce48a72eb21229761478e"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:02.284Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce48a72eb21229761479d"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:02.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce48a72eb2122976147ab"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:02.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce48a72eb2122976147b4"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:02.950Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce48b72eb2122976147bc"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:03.129Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce48b72eb2122976147cb"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:03.366Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce48b72eb2122976147dc"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:03.600Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce48b72eb2122976147e8"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:03.816Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce48e72eb21229761486a"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:06.734Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce48e72eb21229761487f"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:06.944Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce48f72eb2122976148a4"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:07.393Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce48f72eb2122976148ae"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:07.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce48f72eb2122976148b4"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:07.512Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce48f72eb2122976148c6"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:07.673Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce48f72eb2122976148d6"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:07.860Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49072eb2122976148e3"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:08.044Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49072eb2122976148f3"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:08.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49072eb212297614902"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:08.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49072eb212297614914"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:08.484Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49072eb212297614921"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:08.615Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49072eb212297614937"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:08.908Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49172eb212297614942"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:09.028Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49172eb212297614952"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:09.312Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49172eb212297614960"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:09.439Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49172eb212297614969"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:09.529Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49172eb21229761497c"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:09.715Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49172eb21229761498f"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:09.930Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49272eb212297614998"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:10.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49272eb2122976149ad"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:10.250Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49272eb2122976149bb"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:10.368Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49272eb2122976149cd"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:10.549Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49272eb2122976149e0"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:10.741Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49272eb2122976149f2"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:10.982Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49372eb212297614a00"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:11.136Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49372eb212297614a14"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:11.328Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49372eb212297614a20"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:11.501Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49372eb212297614a32"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:11.672Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49372eb212297614a41"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:11.842Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49472eb212297614a50"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:12.008Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49472eb212297614a60"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:12.209Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49472eb212297614a78"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:12.497Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49472eb212297614a88"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:12.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49472eb212297614a99"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:12.896Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49572eb212297614aa9"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:13.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49572eb212297614abd"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:13.221Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49572eb212297614ac9"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:13.325Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49572eb212297614ae2"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:13.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49572eb212297614ae8"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:13.807Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49572eb212297614af1"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:13.948Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49772eb212297614b46"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:15.440Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49772eb212297614b5f"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:15.736Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49772eb212297614b6e"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:15.869Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce49772eb212297614b78"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:42:15.983Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce4f072eb212297614d18"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 9,
+  "createdAt": {
+    "$date": "2024-04-27T11:43:44.834Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce50872eb212297614d32"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 9,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:08.568Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce50872eb212297614d39"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 9,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:08.715Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce50872eb212297614d42"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 9,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:08.893Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce50972eb212297614d49"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 9,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:09.015Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce50972eb212297614d55"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 9,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:09.269Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce50972eb212297614d5d"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 9,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:09.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce50972eb212297614d65"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 9,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:09.591Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce50972eb212297614d6f"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 9,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:09.751Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce50972eb212297614d77"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 9,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:09.898Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce50a72eb212297614d80"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 9,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:10.084Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce50a72eb212297614d88"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 9,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:10.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce50d72eb212297614dc4"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 99900,
+  "addedPoint": 999,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:13.231Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce51372eb212297614e43"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:19.932Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce51472eb212297614e4e"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:20.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce51472eb212297614e53"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:20.256Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce51472eb212297614e60"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:20.473Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce51472eb212297614e65"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:20.591Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce51472eb212297614e71"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:20.780Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce51472eb212297614e79"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:20.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce51572eb212297614e82"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:21.135Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce51572eb212297614e8b"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:21.308Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce51572eb212297614e94"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:21.495Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce51572eb212297614e9f"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:21.763Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce51572eb212297614ea4"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:21.875Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce51672eb212297614eaf"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:22.051Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce51672eb212297614eb9"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:22.244Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce51672eb212297614ec1"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:22.433Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce51672eb212297614eca"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:22.596Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce51672eb212297614ed4"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:22.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce51672eb212297614edc"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:22.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce51772eb212297614ee4"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:23.133Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce51972eb212297614f31"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:25.071Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce51e72eb212297615008"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:30.971Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce51f72eb212297615016"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:31.602Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce51f72eb21229761501c"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:31.699Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce51f72eb21229761502c"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:31.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce52072eb212297615031"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:32.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce52072eb21229761503c"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:32.205Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce52072eb212297615045"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:32.372Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce52072eb21229761504f"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:32.557Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce52072eb212297615056"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:32.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce52072eb212297615060"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 100,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 99,
+  "cost": 98910,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:44:32.971Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce61872eb21229761510a"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1000,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999000,
+  "addedPoint": 9990,
+  "createdAt": {
+    "$date": "2024-04-27T11:48:40.654Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce62272eb212297615121"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1000,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 999,
+  "cost": 989010,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:48:50.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce62672eb212297615130"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1000,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 888,
+  "cost": 990120,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:48:54.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce62a72eb212297615148"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1000,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 7000,
+  "cost": 929000,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:48:58.607Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce62b72eb212297615151"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1000,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 7000,
+  "cost": 929000,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:48:59.610Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce62d72eb212297615161"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1000,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 7000,
+  "cost": 929000,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:49:01.290Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce62e72eb212297615172"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1000,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 7000,
+  "cost": 929000,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:49:02.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce62e72eb21229761517d"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1000,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 7000,
+  "cost": 929000,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:49:02.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce62f72eb212297615188"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1000,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 7000,
+  "cost": 929000,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:49:03.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce62f72eb212297615193"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1000,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 7000,
+  "cost": 929000,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:49:03.258Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce62f72eb21229761519f"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1000,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 7000,
+  "cost": 929000,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:49:03.456Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce62f72eb2122976151a3"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1000,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 7000,
+  "cost": 929000,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:49:03.554Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce62f72eb2122976151ae"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1000,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 7000,
+  "cost": 929000,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:49:03.709Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce62f72eb2122976151b7"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1000,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 7000,
+  "cost": 929000,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:49:03.872Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce63072eb2122976151c1"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1000,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 7000,
+  "cost": 929000,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:49:04.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce63072eb2122976151ca"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1000,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 7000,
+  "cost": 929000,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:49:04.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce63072eb2122976151d2"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1000,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 7000,
+  "cost": 929000,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:49:04.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce63072eb2122976151e1"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1000,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 7000,
+  "cost": 929000,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:49:04.896Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce80372eb212297615321"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 9999,
+  "rentalProvider": {
+    "$oid": "65e0b45219d08cf18abd6303"
+  },
+  "discountPoint": 50000,
+  "cost": 9499000,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:56:51.485Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce85b72eb21229761542f"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 5000,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 4994900,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T11:58:19.409Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce8b872eb2122976154a0"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 10000,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 9990000,
+  "addedPoint": 99900,
+  "createdAt": {
+    "$date": "2024-04-27T11:59:52.333Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce8ba72eb2122976154a9"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 10000,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 9990000,
+  "addedPoint": 99900,
+  "createdAt": {
+    "$date": "2024-04-27T11:59:54.328Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce8bb72eb2122976154b2"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 10000,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 9990000,
+  "addedPoint": 99900,
+  "createdAt": {
+    "$date": "2024-04-27T11:59:55.258Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce8e072eb2122976154ed"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 999,
+  "cost": 999,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T12:00:32.105Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ce8e872eb2122976154fe"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T12:00:40.834Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cebbd72eb212297615591"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 999,
+  "cost": 999,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T12:12:45.564Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cebc472eb2122976155a2"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T12:12:52.910Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662d2abb571b633cf3c0184f"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 9,
+  "createdAt": {
+    "$date": "2024-04-27T16:41:31.006Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662d2ac733dfe36d70817c8b"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 989,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T16:41:43.096Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662d2b1881fdd4fa9facb4a3"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 9,
+  "createdAt": {
+    "$date": "2024-04-27T16:43:04.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662d2b27728249a72baba776"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 989,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T16:43:19.222Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662d2b4833dfe36d70817ca4"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 9,
+  "createdAt": {
+    "$date": "2024-04-27T16:43:52.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662d2b5a8b6f8bd23b59dce8"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 989,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T16:44:10.818Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662d2ba02a5bfa86be1aea6d"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 999,
+  "cost": 999,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T16:45:20.763Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662d2bb633dfe36d70817cbd"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T16:45:42.616Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662d2c0fcfc80be571ee68a6"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T16:47:11.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662d2ca1cfc80be571ee68bd"
+  },
+  "bookingDate": {
+    "$date": "2024-04-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 9,
+  "createdAt": {
+    "$date": "2024-04-27T16:49:37.678Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662d2e995053b4f2afbd647c"
+  },
+  "bookingDate": {
+    "$date": "2024-05-26T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 9,
+  "createdAt": {
+    "$date": "2024-04-27T16:58:01.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662d2eaa079c5eb34ae00f16"
+  },
+  "bookingDate": {
+    "$date": "2024-04-30T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 989,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T16:58:18.743Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662d2f107d6ce17cb458cda5"
+  },
+  "bookingDate": {
+    "$date": "2024-04-30T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 9,
+  "createdAt": {
+    "$date": "2024-04-27T17:00:00.534Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662d2f25d91b56918f5d765c"
+  },
+  "bookingDate": {
+    "$date": "2024-04-30T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 989,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T17:00:21.750Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662d2fbdd91b56918f5d7675"
+  },
+  "bookingDate": {
+    "$date": "2024-04-27T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-27T17:02:53.489Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662e450b0b979f7eda5daa87"
+  },
+  "bookingDate": {
+    "$date": "1970-01-20T20:11:48.363Z"
+  },
+  "user": {
+    "$oid": "662e41e58f6b1b5fd851c703"
+  },
+  "car": "Honda Accord",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e300e320ed58b8b48c714c"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-28T12:46:03.396Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662e458b0b979f7eda5daa8c"
+  },
+  "bookingDate": {
+    "$date": "1970-01-20T20:11:48.491Z"
+  },
+  "user": {
+    "$oid": "662e41e58f6b1b5fd851c703"
+  },
+  "car": "Honda Accord",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e300e320ed58b8b48c714c"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-28T12:48:11.397Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662e4905b88af3711e7dc26a"
+  },
+  "bookingDate": {
+    "$date": "1970-01-20T20:11:49.382Z"
+  },
+  "user": {
+    "$oid": "662e48dab88af3711e7dc260"
+  },
+  "car": "Honda Accord",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e300e320ed58b8b48c714c"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-28T13:03:01.835Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662f027439320c0701c95a13"
+  },
+  "bookingDate": {
+    "$date": "2024-04-29T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "662e1c0a308b5ae4540a848b"
+  },
+  "car": "Honda Civic",
+  "daySpend": 57,
+  "rentalProvider": {
+    "$oid": "65e0b45219d08cf18abd6303"
+  },
+  "discountPoint": 0,
+  "cost": 57000,
+  "addedPoint": 570,
+  "createdAt": {
+    "$date": "2024-04-29T02:14:12.361Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662f11e1daac564f225f8822"
+  },
+  "bookingDate": {
+    "$date": "2024-04-30T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 9,
+  "createdAt": {
+    "$date": "2024-04-29T03:20:01.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662f11f3daac564f225f883a"
+  },
+  "bookingDate": {
+    "$date": "2024-04-30T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 989,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-29T03:20:19.209Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662f133fdaac564f225f8870"
+  },
+  "bookingDate": {
+    "$date": "2024-04-28T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "662e1c0a308b5ae4540a848b"
+  },
+  "car": "Lambo Blue",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65deed7c9363d26fdca9b715"
+  },
+  "discountPoint": 0,
+  "cost": 800,
+  "addedPoint": 8,
+  "createdAt": {
+    "$date": "2024-04-29T03:25:51.618Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662f143fdaac564f225f888f"
+  },
+  "bookingDate": {
+    "$date": "2024-05-14T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 9,
+  "createdAt": {
+    "$date": "2024-04-29T03:30:07.007Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662f1450daac564f225f88a7"
+  },
+  "bookingDate": {
+    "$date": "2024-05-14T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 989,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-29T03:30:24.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662f1474daac564f225f88ce"
+  },
+  "bookingDate": {
+    "$date": "2024-05-15T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-29T03:31:00.374Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662f2b8b5904cf9ebac3eb28"
+  },
+  "bookingDate": {
+    "$date": "2024-05-14T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 9,
+  "createdAt": {
+    "$date": "2024-04-29T05:09:31.527Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662f2b9d5904cf9ebac3eb40"
+  },
+  "bookingDate": {
+    "$date": "2024-05-14T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 1,
+  "cost": 989,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-29T05:09:49.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662f2bbff9f507c745e1b03b"
+  },
+  "bookingDate": {
+    "$date": "2024-05-15T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "65e038bb0eaa7851a241b445"
+  },
+  "car": "Honda Civic",
+  "daySpend": 11,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 10,
+  "cost": 10889,
+  "addedPoint": 0,
+  "createdAt": {
+    "$date": "2024-04-29T05:10:23.250Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662f3f927d3d48f5b922f9f7"
+  },
+  "bookingDate": {
+    "$date": "2024-04-28T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "662e1c0a308b5ae4540a848b"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 9,
+  "createdAt": {
+    "$date": "2024-04-29T06:34:58.351Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662f3f94f869b4727b09ed81"
+  },
+  "bookingDate": {
+    "$date": "2024-04-28T17:00:00.000Z"
+  },
+  "user": {
+    "$oid": "662e1c0a308b5ae4540a848b"
+  },
+  "car": "Honda Civic",
+  "daySpend": 1,
+  "rentalProvider": {
+    "$oid": "65e0080e16b00187cdecc7ed"
+  },
+  "discountPoint": 0,
+  "cost": 999,
+  "addedPoint": 9,
+  "createdAt": {
+    "$date": "2024-04-29T06:35:00.544Z"
+  },
+  "__v": 0
+}]

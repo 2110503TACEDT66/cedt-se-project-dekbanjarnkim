@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "66251f14c9c59cdaa789d8d8"
+  },
+  "name": "Tanza Hot Sale",
+  "rentals": [
+    {
+      "$oid": "65e300e320ed58b8b48c714c"
+    },
+    {
+      "$oid": "65deed7c9363d26fdca9b715"
+    }
+  ],
+  "promoType": "simple",
+  "promoNum": 10,
+  "ratingCount": 9,
+  "ratingSum": 33,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66251faac9c59cdaa789d8df"
+  },
+  "name": "One Hit Sale",
+  "rentals": [
+    {
+      "$oid": "65e0080e16b00187cdecc7ed"
+    }
+  ],
+  "promoType": "percent",
+  "promoNum": 15,
+  "ratingCount": 1,
+  "ratingSum": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66252030c9c59cdaa789d8e4"
+  },
+  "name": "Guadalupe Special Sale",
+  "rentals": [
+    {
+      "$oid": "65e0b45219d08cf18abd6303"
+    }
+  ],
+  "promoType": "simple",
+  "promoNum": 150,
+  "ratingCount": 2,
+  "ratingSum": 10,
+  "__v": 0
+}]

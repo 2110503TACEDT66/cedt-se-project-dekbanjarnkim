@@ -1,0 +1,65 @@
+version: '3.5'
+
+services:
+  frontend: 
+    container_name: kss-frontend
+    build: 
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - '3000:3000'
+    depends_on:
+      - backend
+    networks:
+      - app_network
+    environment:
+      - NEXTAUTH_URL=http://localhost:3000
+      - NEXTAUTH_SECRET='Ey7nTKnggBc0bRN8WUjyShw2qzOZ6KW4fUyqcKBePxY='
+      - MONGO_URI=mongodb+srv://vercel-admin-user:dkK69bz3BQ4KSa7j@swpracticecluster.wqpltih.mongodb.net/CarRental?retryWrites=true&w=majority
+      - FRONTEND_URL=http://localhost:3000
+      - BACKEND_URL=http://backend:8000
+
+  backend:
+    container_name: kss-backend
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - '8000:8000'
+    depends_on:
+      - mongohost
+    networks:
+      - app_network
+    environment:
+      - PORT=8000
+      - NODE_ENV=production
+      - MONGO_URI=mongodb://mongohost:27017/CarRental?retryWrites=true&w=majority
+      - FRONTEND_URL=http://frontend:3000
+      - HOST=http://backend
+      - JWT_SECRET=asdfjk;;lkjfdsa
+      - JWT_EXPIRE=30d
+      - JWT_COOKIE_EXPIRE=30
+
+  db:
+    container_name: db
+    build:
+      context: ./db
+      dockerfile: Dockerfile
+    networks:
+      - app_network
+    depends_on:
+      - mongohost
+
+  mongohost:
+    container_name: mongohost
+    build: 
+      context: ./mongohost
+      dockerfile: Dockerfile
+    ports:
+      - '27017:27017'   
+    networks:
+      - app_network
+
+networks:
+  app_network:
+    driver: bridge
