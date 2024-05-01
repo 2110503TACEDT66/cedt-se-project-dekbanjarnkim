@@ -1,1 +1,1 @@
-vercel: https://kss-frontend-v2.vercel.app/
+vercel: https://kss-v2.vercel.app/
